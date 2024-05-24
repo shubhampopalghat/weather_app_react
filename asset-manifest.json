@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shubhampopalghat/weather_app_react/static/css/main.67be47d6.css",
+    "main.js": "/shubhampopalghat/weather_app_react/static/js/main.3c880575.js",
+    "static/js/453.97127cc3.chunk.js": "/shubhampopalghat/weather_app_react/static/js/453.97127cc3.chunk.js",
+    "static/media/skybg.jpg": "/shubhampopalghat/weather_app_react/static/media/skybg.f510f570fca145da57af.jpg",
+    "index.html": "/shubhampopalghat/weather_app_react/index.html",
+    "main.67be47d6.css.map": "/shubhampopalghat/weather_app_react/static/css/main.67be47d6.css.map",
+    "main.3c880575.js.map": "/shubhampopalghat/weather_app_react/static/js/main.3c880575.js.map",
+    "453.97127cc3.chunk.js.map": "/shubhampopalghat/weather_app_react/static/js/453.97127cc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67be47d6.css",
+    "static/js/main.3c880575.js"
+  ]
+}
